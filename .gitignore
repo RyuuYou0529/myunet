@@ -1,0 +1,8 @@
+.DS_STORE
+
+*.hdf5
+
+model/
+data/membrane/train/aug/
+data/membrane/test/prediction/
+.idea/
