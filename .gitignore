@@ -1,8 +1,9 @@
 .DS_STORE
 
-*.hdf5
+test.py
 
-model/
+models/
+logs/
 data/membrane/train/aug/
 data/membrane/test/prediction/
 .idea/
